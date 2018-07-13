@@ -3,7 +3,7 @@
 
 
 
-![Image of Picker](https://github.com/GriesbeckLab/Picker-Analysis/raw/master/Figure_1_robot_2column_300dpi.tif)
+![Image of Picker](https://raw.githubusercontent.com/GriesbeckLab/Picker-Analysis/master/Figure_1_robot_2column_300dpi.tif)
 
 ## Description
 
